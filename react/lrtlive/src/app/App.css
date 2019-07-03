@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #d3d3d3;
+}
+
+.base-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.Lrt{
+  height: 100px;
+}
