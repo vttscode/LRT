@@ -2,63 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ef0e122-0cd2-4f0a-94d8-9589569d8a90" name="Default Changelist" comment="finish">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LRT-live.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LRT.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LRTHDPlius.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LRTKlasika.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LRTLithuanica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LRTOpus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LRTRadijas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/images/LTVHD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/Icons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/components/Live/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/app/utils/fetch-hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/lrtlive/src/serviceWorker.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lrt/Controller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lrt/LrtLive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lrt/MainApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lrt/NotFoundException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/lrt/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -159,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="217" />
     <option name="width" value="1146" />
     <option name="height" value="724" />
@@ -316,15 +265,15 @@
       <workItem from="1562110318545" duration="304000" />
       <workItem from="1562110638154" duration="145000" />
       <workItem from="1562111691163" duration="287000" />
-      <workItem from="1562119841432" duration="531000" />
+      <workItem from="1562119841432" duration="1044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33960000" />
+    <option name="totallyTimeSpent" value="34473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="732" extended-state="7" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26435044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
